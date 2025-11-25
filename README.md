@@ -1,4 +1,5 @@
 ## Hi there, I'm Ian Kenneth Rafanan! 👋
+I'm fascinated by how technology connects people and solves real problems. Going from hardware connecting to software programming languages like java and SQL in data related things , I enjoy every step of the development process and am always eager to expand my technical toolkit.
 
 ## Education
 College: Bachelor of Science in Computer Science
@@ -19,6 +20,6 @@ Elementary School
 ## Skillsets
 Programming Languages: Java, SQL, HTML
 
-Databases: IBM DB2 Cloud, Supabase, MongoDB
+Databases: IBM DB2 Cloud
 
-Tools & Technologies: React, Node.js, Lucidchart, Figma, Canva
+**Hardware:** Computer Repair, Troubleshooting, System Assembly
