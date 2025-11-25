@@ -1,5 +1,3 @@
-Name
-
 Ian Kenneth Rafanan
 
 Education
