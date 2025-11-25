@@ -1,6 +1,7 @@
 Ian Kenneth Rafanan
 
 Education
+
 Tertiary
 -  New Era University - Bachelor in Science of Computer Science 
   
