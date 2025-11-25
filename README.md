@@ -26,3 +26,7 @@ I'm fascinated by how technology connects people and solves real problems. Going
 **Databases:** IBM DB2 Cloud
 
 **Hardware:** Computer Repair, Troubleshooting, System Assembly
+
+## Let's Connect
+-LinkedIn: https://www.linkedin.com/in/rafanan-ian-kenneth-240a00397/
+-Gmail: rafanan.iankenneth@gmail.com
