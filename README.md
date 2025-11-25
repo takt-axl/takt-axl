@@ -16,7 +16,7 @@ I'm fascinated by how technology connects people and solves real problems. Going
 
 ## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/611f62d043cf443db12752991230ed90#)
-- [Computer System Servicing NC2]([https://github.com/user-attachments/files/23749460/NC2.docx](https://docs.google.com/document/d/1YxVxrRSuhsGeq4ZnIl1IX7xhdkJzvFir5BJJnhi72DE/edit?usp=sharing))
+- [Computer System Servicing NC2](https://docs.google.com/document/d/1YxVxrRSuhsGeq4ZnIl1IX7xhdkJzvFir5BJJnhi72DE/edit?usp=sharing)
 
 
 
