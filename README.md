@@ -1,16 +1,19 @@
-## Hi there 👋
+Name
+Ian Kenneth Rafanan
 
-<!--
-**takt-axl/takt-axl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education
+Tertiary
+- Bachelor in Science of Computer Science - New Era - 2nd Year
+Secondary
+- Don Alejandro Roces Sr. Science & Technology Highschool
+- Las Piñas City Technical Vocational Highschool
+Primary
+- Talon Tres Elementary School
 
-Here are some ideas to get you started:
+Certifications
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/611f62d043cf443db12752991230ed90#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skillsets
+-Java
+-SQL 
+-HTML
