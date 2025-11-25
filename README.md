@@ -19,4 +19,3 @@ Certifications
 Skillsets
 - Java
 - SQL 
-- TML
