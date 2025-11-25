@@ -4,7 +4,7 @@ Ian Kenneth Rafanan
 
 Education
 Tertiary
-- Bachelor in Science of Computer Science - New Era - 2nd Year
+-  New Era University - Bachelor in Science of Computer Science 
   
 Secondary
 - Don Alejandro Roces Sr. Science & Technology Highschool
