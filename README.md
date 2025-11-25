@@ -16,6 +16,8 @@ I'm fascinated by how technology connects people and solves real problems. Going
 
 ## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/611f62d043cf443db12752991230ed90#)
+- [NC.pdf](https://github.com/user-attachments/files/23749310/NC.pdf)
+
 
 ## Skillsets
 **Programming Languages:** Java, SQL, HTML
