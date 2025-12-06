@@ -7,6 +7,7 @@ I'm fascinated by how technology connects people and solves real problems. Going
 
 ## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/611f62d043cf443db12752991230ed90#)
+- [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=4C259592E59E763B0953C16CD6ED5CC81917A66CA0D38885E826C90E4483736A)
 
 ## Skillsets
 **Programming Languages:** Java, SQL, HTML
